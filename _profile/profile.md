@@ -3,14 +3,17 @@
 layout: default
 name: Judy Ann D.Santiago
 location: "Somewhere"
-country: Nation
-email: "your.address@email.com"
-twitter: "@meontwitter"
-blog: "https://wordpress.com/"
-linkedin: "http://www.linkedin.com/"
-github: "https://github.com/"
-flickr: "https://www.flickr.com/"
-slideshare: "http://slideshare.net/"
+language: English | Filipino
+zodiac: Scorpio
+born: 2001 Metal Snake
+personality: Turbulent Mediator (INFP-T)
+email: "santiagojudyanndelacruz@gmail.com"
+
+
+
+
+
+
 
 ---
 
