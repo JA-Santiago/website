@@ -1,9 +1,9 @@
 ---
 
 layout: null 
-period: 2014-2014 
-institution: Ivy Covered University
-title: "Graduate Certificate in Awesomeness"
+period: 2019-2021 
+institution: Tagaytay City Science National High School
+title: "Graduated With Honors"
 
 ---
 
