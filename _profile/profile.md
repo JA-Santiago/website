@@ -1,7 +1,7 @@
 ---
 
 layout: default
-name: Christian Surname
+name: Judy Ann D.Santiago
 location: "Somewhere"
 country: Nation
 email: "your.address@email.com"
