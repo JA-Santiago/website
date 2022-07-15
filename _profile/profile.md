@@ -5,7 +5,7 @@ name: Judy Ann D.Santiago
 location: "Somewhere"
 language: English | Filipino
 zodiac: Scorpio
-born: 2001 Metal Snake
+born: 2001, Metal Snake
 personality: Turbulent Mediator (INFP-T)
 email: "santiagojudyanndelacruz@gmail.com"
 
