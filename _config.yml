@@ -37,6 +37,7 @@ colour:
     text: 1a1a1a # sets text colour
     alternatestripe: 263248 # sets the alternate background stripe
     
+# bgimage: "j3.e.jpg" # set hero image here. add file name and place in Images folder]
 bgimage: "j3.e.jpg" # set hero image here. add file name and place in Images folder
 
 # Build settings
