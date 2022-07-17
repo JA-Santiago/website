@@ -1,7 +1,7 @@
 ---
 
-title: "Desktop Software"
+title: "Graphic and Video Editing Software / Online Tools"
 
 --- 
 
-Like the kinds of apps you can use (don't put Candy Crush.... not on a resume)
+Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro, Adobe Lightroom, Canva
