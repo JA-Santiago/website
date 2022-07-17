@@ -1,7 +1,7 @@
 ---
 
 layout: default
-name: Judy Ann D.Santiago
+name: J A Santiago
 location: "Somewhere"
 language: English | Filipino
 zodiac: Scorpio
