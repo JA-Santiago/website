@@ -1,8 +1,8 @@
 ---
 
-period: "Jan 2012 - Dec 2014"
-employer: 3rd Employer 
-title: "Innovation  Officer"
+period: "2022"
+employer: Freelance 
+title: "Assistant Video Editor"
 
 ---
 
