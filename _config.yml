@@ -32,10 +32,10 @@ collections:
 # Colour Configuration
 
 colour: 
-    primary: C8B6E2 # sets the primary link colour
-    secondary: 7E8AA2 # sets the hover colour
+    primary: A8A4CE # sets the primary link colour #download button
+    secondary: 7A86B6 # sets the hover colour #2nd layer
     text: 1a1a1a # sets text colour
-    alternatestripe: 263248 # sets the alternate background stripe
+    alternatestripe: 495C83 # sets the alternate background stripe
     
 # bgimage: "j4.e.jpg" # set hero image here. add file name and place in Images folder
 bgimage: "jas.jpg" # set hero image here. add file name and place in Images folder
