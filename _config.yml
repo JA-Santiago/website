@@ -32,7 +32,7 @@ collections:
 # Colour Configuration
 
 colour: 
-    primary: FF9800 # sets the primary link colour
+    primary: C8B6E2 # sets the primary link colour
     secondary: 7E8AA2 # sets the hover colour
     text: 1a1a1a # sets text colour
     alternatestripe: 263248 # sets the alternate background stripe
