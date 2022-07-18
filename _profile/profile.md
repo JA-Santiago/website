@@ -17,8 +17,7 @@ email: "santiagojudyanndelacruz@gmail.com"
 
 ---
 
-I am the youngest of five children. My mom is a single parent and we barely make enough money to survive. But thanks to my sister, I was able to go up until senior high school. Meanwhile, I continue to acquire knowledge through online resources and courses. 
+I am the youngest of five children. As someone who grew up in one of the poorest areas of Metro Manila, I thought I had no chance to be somebody. It was until the Covid-19 pandemic happened in 2020 that I had the opportunity to meet someone who shared with me a completely opposite lifestyle and mentality from what I have known for 18 years. 
 
-As someone who grew up in one of the poor areas in Metro Manila, I thought I had no chance to be somebody. Most people there are nobodies– including myself.  It was
-until the Covid-19 pandemic came in 2020, I got the opportunity to be with someone completely opposite from the people I have been with for 18 years. He thought me a lot of things and made me realize that I have a lot of positive things to contribute to the world. Now, I understand that it does not matter where you came from but it is where you go. That marks the beginning of my path toward becoming a software engineer.
+I now understand that I too have so much more to contribute to the world. It does not matter where you come from, but where you end up going. My goals have been strengthened! I will stay committed! This is the beginning of my journey toward becoming a software engineer.
 
