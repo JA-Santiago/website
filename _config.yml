@@ -28,6 +28,10 @@ collections:
     skills:
         output: false
         title: Skills
+    projects:
+        output: false
+        title: Projects
+        
 
 # Colour Configuration
 
