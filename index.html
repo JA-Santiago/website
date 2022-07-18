@@ -81,6 +81,27 @@ _________________________________________ -->
         <h2>Projects</h2>
     </div>
     </div>
+         
+
+
+    <div class="container">    
+{% for experience in site.experience reversed %}
+
+<!-- Info below is drawn in from the YAML front end -->
+        
+    <div class="row">
+            <div class="five columns">
+                <h2 class="date">{{ experience.period }}</h2>
+                <h4 class="employer">{{ experience.employer }}</h4>
+        </div>
+        <div class="seven columns">
+            
+<!-- Info below is drawn in from the YAML title: and the content from the actual .md -->
+            
+        <h3>{{ experience.title }}</h3>
+            {{ experience.content }}
+    </div> 
+    </div>
 
          {% endfor %}
         
