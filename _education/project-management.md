@@ -1,9 +1,9 @@
 ---
 
 layout: null 
-period: 2015 - 2019 
-institution: Tinajeros National High School
-title: "Junior High School"
+period: 2019 - 2021 
+institution: Tagaytay City Science National High School
+title: "Senior High School | STEM Strand"
 
 ---
 
