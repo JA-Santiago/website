@@ -1,6 +1,6 @@
 ---
 
-title: "Design Editing Platforms"
+title: "Design Editing Platform"
 
 --- 
 
