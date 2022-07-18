@@ -1,6 +1,6 @@
 ---
 
-title: "Graphic and Video Editing Software / Online Tools"
+title: "Graphic and Video Editing Software / Tools"
 
 --- 
 
