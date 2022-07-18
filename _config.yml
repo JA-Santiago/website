@@ -16,6 +16,9 @@ collections:
     experience:
         output: false
         title: Experience
+    projects:
+        output: false
+        title: Projects
     interests:
         output: false
         title: Interest
@@ -28,9 +31,6 @@ collections:
     skills:
         output: false
         title: Skills
-    projects:
-        output: false
-        title: Projects
         
 
 # Colour Configuration
