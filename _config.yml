@@ -33,7 +33,7 @@ collections:
 
 colour: 
     primary: FF9800 # sets the primary link colour #download button
-    secondary: E4DCCF # sets the hover colour #2nd layer (light)
+    secondary: ffbf00 # sets the hover colour #2nd layer (light)
     text: ffbf00 # sets text colour
     alternatestripe: 742f09 # sets the alternate background stripe #3rd layer (dark)
     
