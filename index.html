@@ -85,21 +85,21 @@ _________________________________________ -->
 
 
     <div class="container">    
-{% for project in site.project reversed %}
+{% for projects in site.projects reversed %}
 
 <!-- Info below is drawn in from the YAML front end -->
         
     <div class="row">
             <div class="five columns">
-                <h2 class="date">{{ project.period }}</h2>
-                <h4 class="employer">{{ project.employer }}</h4>
+                <h2 class="date">{{ projects.period }}</h2>
+                <h4 class="employer">{{ projects.employer }}</h4>
         </div>
         <div class="seven columns">
             
 <!-- Info below is drawn in from the YAML title: and the content from the actual .md -->
             
-        <h3>{{ project.title }}</h3>
-            {{ project.content }}
+        <h3>{{ projects.title }}</h3>
+            {{ projects.content }}
     </div> 
     </div>
 
