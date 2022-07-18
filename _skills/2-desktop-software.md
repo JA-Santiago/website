@@ -1,7 +1,7 @@
 ---
 
-title: "Graphic and Video Editing Software / Tools"
+title: "Graphic/Photo/Video Editing Software"
 
 --- 
 
-Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom, Canva
+Adobe Photoshop, Adobe Premiere Pro, Adobe Lightroom,
