@@ -6,4 +6,4 @@ title: "Personal Website"
 
 ---
 
-Leading a huuuuge team of people to unimainable performance.
+I'm thrilled to share my very first personal website with you, even if it's nowhere near perfect.
