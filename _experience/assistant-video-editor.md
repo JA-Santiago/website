@@ -1,7 +1,7 @@
 ---
 
 period: "2022"
-employer: Freelance
+employer: 
 title: "Assistant Video Editor"
 
 ---
