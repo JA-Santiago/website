@@ -1,7 +1,7 @@
 ---
 
 layout: null 
-period: 2022 
+period: May 2022 - July 2022 
 institution: Google on Coursera
 title: "Google Project Management"
 
