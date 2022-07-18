@@ -1,9 +1,9 @@
 ---
 
 layout: null 
-period: 2022 
-institution: Google on Coursera
-title: "Google Project Management"
+period: 2015 - 2019 
+institution: Tinajeros National High School
+title: "Junior High School"
 
 ---
 
