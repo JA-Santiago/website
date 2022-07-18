@@ -6,4 +6,4 @@ title: "Personal Website"
 
 ---
 
-I'm thrilled to share my very first personal website with you, even if it's nowhere near perfect.
+I’m thrilled to share my very first personal website with you! It may not be perfect, but it will surely be filled with more wonderful things as I continue to build it.
