@@ -1,6 +1,6 @@
 ---
 
-title: "Graphic/Photo/Video Editing Software"
+title: "Media Editing Software"
 
 --- 
 
