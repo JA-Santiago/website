@@ -34,7 +34,7 @@ collections:
 colour: 
     primary: FF9800 # sets the primary link colour #download button
     secondary: ffbf00 # sets the hover colour #2nd layer (light)
-    text: ffbf00 # sets text colour
+    text: FFBF00 # sets text colour
     alternatestripe: 742f09 # sets the alternate background stripe #3rd layer (dark)
     
 # bgimage: "j4.e.jpg" # set hero image here. add file name and place in Images folder
