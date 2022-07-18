@@ -6,4 +6,4 @@ title: "Assistant Video Editor"
 
 ---
 
-Preparing editing software, reviewing the raw footage, ensures content accuracy, and edit portions of the project.
+As an assistant video editor, I am responsible for preparing editing software, reviewing raw footage, ensuring content accuracy, and editing portions of the project.
