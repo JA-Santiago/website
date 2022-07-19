@@ -31,6 +31,9 @@ collections:
     skills:
         output: false
         title: Skills
+    coursework:
+        output: false
+        title: Course Work
         
 
 # Colour Configuration
