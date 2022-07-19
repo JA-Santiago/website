@@ -1,11 +1,11 @@
 ---
 
-title: "A really Important paper I wrote"
-authors: "Christian Surname, Anothery Guy, Someone Else"
-publisher: A Website
-published-date: Jun 2014
+title: "My Complete Curriculum Vitae"
+authors: "Judy Ann Santiago"
+publisher: PDF Format
+published-date: Updated July 2022
 link: "#"
 
 ---
 
-A quick summary of what you wrote up just in case someone might actually find it interesting. 
+My experience and more! 
