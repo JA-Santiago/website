@@ -33,7 +33,7 @@ collections:
         title: Skills
     coursework:
         output: false
-        title: Course Work
+        title: Course_Work
         
 
 # Colour Configuration
