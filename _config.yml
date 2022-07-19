@@ -34,6 +34,9 @@ collections:
     coursework:
         output: false
         title: Course_Work
+    certificates:
+        output: false
+        title: Certificates
         
 
 # Colour Configuration
