@@ -109,6 +109,31 @@ _________________________________________ -->
          
 </section>    
 
+<section class="u-full-width" id="coursework"> 
+    <div class="container" align="center">  
+        <div class="headline" align="center">
+            <p><span>Training</span></p>
+            <h2>Course Work</h2>
+        </div>
+    </div>
+
+    
+    <div class="container">
+
+{% for coursework in site.coursework reversed %}
+    <div class="row">
+            <div class="five columns">
+                <h2 class="date">{{ coursework.period }}</h2>
+                <h4 class="institution">{{ coursework.institution }}</h4>
+            </div>
+         <div class="seven columns">
+            <h3>{{ coursework.title }}</h3>
+        </div>
+    </div>
+ 
+{% endfor %}                
+    </div>
+
 <section class="u-full-width" id="education"> 
     <div class="container" align="center">  
         <div class="headline" align="center">
