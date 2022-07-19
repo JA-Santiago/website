@@ -2,7 +2,7 @@
 
 title: "My Complete Curriculum Vitae"
 authors: "Judy Ann Santiago"
-publisher: PDF Format
+publisher: CV FULL VERSION
 published-date: Updated July 2022
 link: "#"
 
