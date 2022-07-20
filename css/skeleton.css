@@ -479,11 +479,6 @@ section {
   
 #experience, #awards, #skills, #certificates {
     background-color:  #{{ site.colour.alternatestripe }};
-    box-shadow: 0 1px 0 0 black; /* Border bottom */
-    box-shadow: 0 -1px 0 0 black; /* Border top */
-    box-shadow: -1px 0 0 0 black; /* Border left */
-    box-shadow: 1px 0 0 0 black; /* Border right */
-    box-shadow: 0 0 0 1px black; /* All the borders by using the spread properties */
     color: #ffffff;
     
 }
