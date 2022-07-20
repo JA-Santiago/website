@@ -479,9 +479,8 @@ section {
   
 #experience, #awards, #skills, #certificates {
     background-color:  #{{ site.colour.alternatestripe }};
+    box-shadow:  #000000;
     color: #ffffff;
-    background-color:  #{{ site.colour.alternatestripe }};
-    box-shadow: 120px 80px 40px 20px #000000;
     
 }
 
